@@ -10,33 +10,60 @@
 
 </div>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pasindubuddika)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/)
+
+<!--rule -->
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+&nbsp;
+- 👨🏽‍💻 HELLO I’m Pasindu Buddika;
+- 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++  ; 
+- ⚡️ I’m looking to collaborate on [Mr GAYAN) 🤝;
+- ⚡️ Watch My Programming Tutorials [GAIYA &D GEEK](https://youtube.com/@gaiyadgeek8266) ;
+- 🤔 I’m looking for New programming methord;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ I'm Still Student;
+- 📫 How to reach me:pasindugayanbuddika@gmail.com;
+
+<div align="right">
+<img align="right" src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif"/>
+</div>
+
+
+#
+GITHUB STATUS.
+- ![Profile views](https://gpvc.arturio.dev/pasindubuddika)
+- [![GitHub followers](https://img.shields.io/github/followers/RazorKenway.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pasindubuddika?tab=followers)
+
+<p align="left">
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=pasindubuddika&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
+
+<p align ="right">
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
+  <br />  
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <br> code
+</p>
 
   <br />  
 
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-
-  <br />
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-
-  <br />
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-
-  <br>
-
+  
 </p>  
 <!--rule -->
 
