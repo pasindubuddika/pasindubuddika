@@ -38,5 +38,38 @@
   <br>
 
 </p>  
+<!--rule -->
+
+<hr style style="height:2px;border-width:0;color:gray;background-color:gray"> ="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+
+<p align="center">
+
+<a href="https://github.com/RazorKenway/Unlocker"><img title="Unlocker" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/RazorKenway/EvilEye-Banner"><img title="EvilEye-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/RazorKenway/Hide-In-Picture"><img title="Hide-In-Picture" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast"></a>
+
+</p>
+
+<!--rule -->
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p align="center">
+
+<a href="https://github.com/pasindubuddika"><img title="Mr BUDDIKA" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindubuddika&layout=compact"></a>
+
+</p>
 
 <!--
