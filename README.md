@@ -105,20 +105,8 @@ GITHUB STATUS.
 </p>
 
 <div align="right">
-<a href="https://github.com/RazorKenway">
-  <img align="left" alt="Razor's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/Razor_Kenway">
-  <img align="left" alt="Razor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/sl_android_official/">
-  <img align="left" alt="SL Android Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/groups/277920623081269/?ref=share">
-  <img align="left" alt="SL Android Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.facebook.com/SLAndroidD/">
-  <img align="left" alt="SL Android Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://github.com/pasindubuddika">
+  <img align="left" alt="Razor's Github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </div>
 
